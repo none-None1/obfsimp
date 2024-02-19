@@ -11,7 +11,7 @@ There are many example programs and obfuscated programs at the examples folder
 """
 setup(
     name="obfsimp",
-    version="1.0.0",
+    version="1.0.1",
     description="Simple Python 3 obfuscator",
     long_description=docs,
     packages=["obfsimp", "obfsimp.methods", "obfsimp.examples"],
@@ -23,4 +23,5 @@ setup(
     entry_points={"console_scripts": ["obfsimp=obfsimp.cli:_cli"]},
     install_requires=["pygments"],
     python_requires=">=3",
+    url="https://github.com/none-None1/obfsimp"
 )
