@@ -31,7 +31,7 @@ Some Python code may not work correctly after being obfuscated, for example:
 a=3
 print(eval('a'))
 ```
-If you pass `rename_variables`, it will not work because `a` will be replaces by another name.
+If you pass `rename_variables`, it will not work because `a` will be replaced by another name.
 
 ## Examples
 In the examples folder, you can see some example programs and obfuscated programs.
