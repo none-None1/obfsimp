@@ -1,3 +1,5 @@
+[![Downloads](https://static.pepy.tech/badge/obfsimp)](https://pepy.tech/project/obfsimp) [![Downloads](https://static.pepy.tech/badge/obfsimp/month)](https://pepy.tech/project/obfsimp) [![Downloads](https://static.pepy.tech/badge/obfsimp/week)](https://pepy.tech/project/obfsimp)
+
 # obfsimp
  Simple Python 3 obfuscator
 
